@@ -1,6 +1,8 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
+from __future__ import (absolute_import, division, print_function)
+
 """
 Ansible module to manage symbolic link alternatives.
 (c) 2014, Gabe Mulley <gabe.mulley@gmail.com>
